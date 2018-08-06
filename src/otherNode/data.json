@@ -1,0 +1,110 @@
+[
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/4bda473f-0a84-47b3-895f-9c31ea3a4c9d.jpg.185x185.jpg",
+        "title": "西山甲一号",
+        "href": "西山甲一号",
+        "address": "丰台",
+        "label": "住宅",
+        "section": "建面 118-194㎡",
+        "price": "63000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/10f487c9-09e1-46e7-ac3c-77e21dc20f9e.jpg.185x185.jpg",
+        "title": "丽景长安",
+        "href": "丽景长安",
+        "address": "门头沟",
+        "label": "住宅",
+        "section": "建面 152-190㎡",
+        "price": "52000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/9fa05f6d-87ca-4954-ad31-1ba147b95c27.jpg.185x185.jpg",
+        "title": "中骏西山天璟",
+        "href": "中骏西山天璟",
+        "address": "门头沟",
+        "label": "住宅",
+        "section": "建面 117-155㎡",
+        "price": "65000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/f4442229-8982-40f8-ae39-ba686d4d3c9e.jpg.185x185.jpg",
+        "title": "电建金地华宸",
+        "href": "电建金地华宸",
+        "address": "门头沟",
+        "label": "住宅",
+        "section": "建面 180-247㎡",
+        "price": "64000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/7ca8370d-42d1-432a-85ad-8c87c723d41c.jpg.185x185.jpg",
+        "title": "通州万国城MOMA",
+        "href": "通州万国城MOMA",
+        "address": "通州",
+        "label": "住宅",
+        "section": "建面 117-149㎡",
+        "price": "72000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/423b4216-ca14-4926-b192-260260fa9795.jpg.185x185.jpg",
+        "title": "中粮京西祥云",
+        "href": "中粮京西祥云",
+        "address": "房山",
+        "label": "住宅",
+        "section": "建面 115-140㎡",
+        "price": "58000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/229877bb-8929-4b2f-9c39-8475aabc970a.jpg.185x185.jpg",
+        "title": "领秀翡翠墅",
+        "href": "领秀翡翠墅",
+        "address": "丰台",
+        "label": "别墅",
+        "section": "建面 267-335㎡",
+        "price": "65000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/c7998fc4-1958-4ccf-8e12-b48cd07d2091.jpg.185x185.jpg",
+        "title": "中铁华侨城和园",
+        "href": "中铁华侨城和园",
+        "address": "大兴",
+        "label": "住宅",
+        "section": "建面 121-153㎡",
+        "price": "67000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/4c2be9c5-c152-49ed-b3b2-132a6960c333.jpg.185x185.jpg",
+        "title": "西山艺境华墅",
+        "href": "西山艺境华墅",
+        "address": "门头沟",
+        "label": "别墅",
+        "section": "建面 205-380㎡",
+        "price": "60000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/7a09319f-b5c8-4f6c-a927-17e36c0191c2.jpg.185x185.jpg",
+        "title": "亿城燕西华府",
+        "href": "亿城燕西华府",
+        "address": "丰台",
+        "label": "住宅",
+        "section": "建面 60-270㎡",
+        "price": "58000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/1c5ffd83-130a-4021-83d9-8fbf62b09dc8.jpg.185x185.jpg",
+        "title": "北京岭秀",
+        "href": "北京岭秀",
+        "address": "平谷",
+        "label": "别墅",
+        "section": "建面 223-260㎡",
+        "price": "26000 元/平"
+    },
+    {
+        "imgSrc": "https://image1.ljcdn.com/xf-resblock/7d36d674-9153-4cbd-a6ef-5ce9d89af09e.jpg.185x185.jpg",
+        "title": "首开保利熙悦林语",
+        "href": "首开保利熙悦林语",
+        "address": "大兴",
+        "label": "住宅",
+        "section": "建面 136-138㎡",
+        "price": "52315 元/平"
+    }
+]

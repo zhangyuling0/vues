@@ -1,0 +1,97 @@
+[
+    {
+        "title": "搜猎人艺术生活",
+        "checkAll":false,
+        "list": [
+            {
+                "title": "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+                "src": "../../../static/images/1.png",
+                "rule": "规格：默认",
+                "size": "尺寸：16*16*3(cm)",
+                "price": 980,
+                "prices":980,
+                "count":0,
+                "checked":false,
+                "allprice":980
+            },
+            {
+                "title": "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+                "src": "../../../static/images/2.png",
+                "rule": "规格：默认",
+                "size": "尺寸：16*16*3(cm)",
+                "price": 780,
+                "prices":780,
+                "count":0,
+                "checked":false,
+                "allprice":780
+            },
+            {
+                "title": "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+                "src": "../../../static/images/3.png",
+                "rule": "规格：默认",
+                "size": "尺寸：16*16*3(cm)",
+                "price": 180,
+                "prices":180,
+                "count":0,
+                "checked":false,
+                "allprice":180
+            }
+        ]
+    },
+    {
+        "title": "卷卷旗舰店",
+        "checkAll":false,
+        "list": [
+            {
+                "title": "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+                "src": "../../../static/images/4.png",
+                "rule": "规格：默认",
+                "size": "尺寸：16*16*3(cm)",
+                "price": 1980,
+                "prices":1980,
+                "count":0,
+                "checked":false,
+                "allprice":1980
+            },
+            {
+                "title": "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+                "src": "../../../static/images/5.png",
+                "rule": "规格：默认",
+                "size": "尺寸：16*16*3(cm)",
+                "price": 480,
+                "prices":480,
+                "count":0,
+                "checked":false,
+                "allprice":480
+            }
+        ]
+    },
+    {
+        "title": "卷卷旗舰店",
+        "checkAll":false,
+        "list": [
+            {
+                "title": "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+                "src": "../../../static/images/1.png",
+                "rule": "规格：默认",
+                "size": "尺寸：16*16*3(cm)",
+                "price": 1980,
+                "prices":1980,
+                "count":0,
+                "checked":false,
+                "allprice":1980
+            },
+            {
+                "title": "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+                "src": "../../../static/images/1.png",
+                "rule": "规格：默认",
+                "size": "尺寸：16*16*3(cm)",
+                "price": 480,
+                "prices":480,
+                "count":0,
+                "checked":false,
+                "allprice":480
+            }
+        ]
+    }
+]
